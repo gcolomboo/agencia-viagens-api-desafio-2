@@ -98,27 +98,15 @@ Usuários USER não podem cadastrar, alterar ou excluir destinos.
 
 
 
-Usuário:
+Usuário: `admin`
 
 
 
-`admin`
+Senha: `admin123`
 
 
 
-Senha:
-
-
-
-`admin123`
-
-
-
-Perfil:
-
-
-
-`ADMIN`
+Perfil: `ADMIN`
 
 
 
@@ -126,27 +114,15 @@ Perfil:
 
 
 
-Usuário:
+Usuário: `usuario`
 
 
 
-`usuario`
+Senha: `user123`
 
 
 
-Senha:
-
-
-
-`user123`
-
-
-
-Perfil:
-
-
-
-`USER`
+Perfil: `USER`
 
 
 
